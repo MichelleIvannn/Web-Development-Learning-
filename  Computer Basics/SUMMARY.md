@@ -10,5 +10,5 @@
   * [How the Web Works](computer-basics/how-the-web-works/README.md)
     * [Clients and Servers](computer-basics/how-the-web-works/clients-and-servers.md)
     * [The other parts of the toolbox](computer-basics/how-the-web-works/the-other-parts-of-the-toolbox.md)
-    * [Page](computer-basics/how-the-web-works/page.md)
+    * [HTPP Basics](computer-basics/how-the-web-works/htpp-basics.md)
 * [TO DO List](to-do-list.md)
