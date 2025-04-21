@@ -4,6 +4,8 @@
 
 ## 💻 Additional Resources
 
+* [Cheat Sheets](additional-resources/cheat-sheets/README.md)
+  * [VSCode](additional-resources/cheat-sheets/vscode.md)
 * [Links for Development](additional-resources/links-for-development/README.md)
   * [💠 To be a Good Web Developer ](additional-resources/links-for-development/to-be-a-good-web-developer.md)
   * [💠 Typing skills](additional-resources/links-for-development/typing-skills.md)
