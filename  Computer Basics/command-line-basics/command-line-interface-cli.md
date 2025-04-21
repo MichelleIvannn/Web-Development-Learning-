@@ -7,8 +7,9 @@
 * Cd&#x20;
   * `cd` stands for ‘change directory’, which is a bit misleading
   * The command doesn’t change the directory; it changes the shell’s current working directory.
-
-
+* cd ..&#x20;
+  * is a special directory name meaning “the directory containing this one” or more succinctly
+  * &#x20;the **parent** of the current directory.
 
 ***
 
@@ -25,6 +26,11 @@
 * man ls
   * We can read its manual with `man`
 
-### The -- help option
+### The man command
 
-*
+* The other way to learn about `ls` is to type
+* just put the option of man before ls
+* /
+
+***
+

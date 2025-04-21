@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Computer Basics](README.md)
+* [TO DO List](README.md)
+* [Computer Basics](<README (1).md>)
   * [How Does the Web Work?](computer-basics/how-does-the-web-work.md)
   * [Browsing the Web](computer-basics/browsing-the-web/README.md)
     * [Web Page](computer-basics/browsing-the-web/web-page.md)
@@ -11,6 +12,5 @@
     * [Clients and Servers](computer-basics/how-the-web-works/clients-and-servers.md)
     * [The other parts of the toolbox](computer-basics/how-the-web-works/the-other-parts-of-the-toolbox.md)
     * [HTPP Basics](computer-basics/how-the-web-works/htpp-basics.md)
-* [TO DO List](to-do-list.md)
 * [Command Line Basics](command-line-basics/README.md)
   * [Command line interface ( CLI )](command-line-basics/command-line-interface-cli.md)
