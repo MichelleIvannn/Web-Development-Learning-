@@ -1,7 +1,7 @@
 # Table of contents
 
 * [TO DO List](README.md)
-* [Computer Basics](<README (1).md>)
+* [Computer Basics](computer-basics/README.md)
   * [How Does the Web Work?](computer-basics/how-does-the-web-work.md)
   * [Browsing the Web](computer-basics/browsing-the-web/README.md)
     * [Web Page](computer-basics/browsing-the-web/web-page.md)
@@ -15,4 +15,5 @@
 * [Command Line Basics](command-line-basics/README.md)
   * [Command line interface ( CLI )](command-line-basics/command-line-interface-cli.md)
 * [Git](git/README.md)
-  * [Version Control System ( VCS)](git/version-control-system-vcs.md)
+  * [Version Control System ( VCS)](git/version-control-system-vcs/README.md)
+    * [What is Git](git/version-control-system-vcs/what-is-git.md)

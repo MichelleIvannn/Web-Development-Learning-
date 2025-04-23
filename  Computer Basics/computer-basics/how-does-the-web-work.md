@@ -60,4 +60,4 @@
 * very similar to Intranets, except they open all or part of a private network to allow sharing and collaboration with other organizations.
 * They are typically used to safely and securely share information with clients and stakeholders who work closely with a business.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
