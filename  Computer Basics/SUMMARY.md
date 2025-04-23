@@ -15,5 +15,6 @@
 * [Command Line Basics](command-line-basics/README.md)
   * [Command line interface ( CLI )](command-line-basics/command-line-interface-cli.md)
 * [Git](git/README.md)
+  * [About git and Github](git/about-git-and-github.md)
   * [Version Control System ( VCS)](git/version-control-system-vcs/README.md)
     * [What is Git](git/version-control-system-vcs/what-is-git.md)
