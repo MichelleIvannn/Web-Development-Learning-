@@ -10,6 +10,7 @@
   * [💠 To be a Good Web Developer ](additional-resources/links-for-development/to-be-a-good-web-developer.md)
   * [💠 Typing skills](additional-resources/links-for-development/typing-skills.md)
   * [🏮 Challenges](additional-resources/links-for-development/challenges.md)
+  * [To read later](additional-resources/links-for-development/to-read-later.md)
 
 ## Motivational
 
