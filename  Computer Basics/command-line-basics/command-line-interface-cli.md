@@ -10,6 +10,8 @@
 * cd ..&#x20;
   * is a special directory name meaning “the directory containing this one” or more succinctly
   * &#x20;the **parent** of the current directory.
+* `mkdir` -  used to create a new directory or folder in a file system
+  * mkdir \<directory\_name>
 
 ***
 
@@ -30,7 +32,7 @@
 
 * The other way to learn about `ls` is to type
 * just put the option of man before ls
-* /
+* `"~"` stands for `/Users/your_username` and sometimes it stands for `/home/your_username`
 
 ***
 
