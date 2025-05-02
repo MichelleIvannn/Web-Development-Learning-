@@ -12,6 +12,7 @@
     * [Clients and Servers](computer-basics/how-the-web-works/clients-and-servers.md)
     * [The other parts of the toolbox](computer-basics/how-the-web-works/the-other-parts-of-the-toolbox.md)
     * [HTPP Basics](computer-basics/how-the-web-works/htpp-basics.md)
+  * [How does the internet work?](computer-basics/how-does-the-internet-work.md)
 * [Command Line Basics](command-line-basics/README.md)
   * [Command line interface ( CLI )](command-line-basics/command-line-interface-cli.md)
 * [Git](git/README.md)
